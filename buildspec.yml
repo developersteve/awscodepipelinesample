@@ -3,6 +3,4 @@ phases:
   install:
     runtime-versions:
       nodejs: 14  
-artifacts:
-  files:
-    - '**/*'
+ 
