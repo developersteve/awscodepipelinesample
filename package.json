@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-      "marked": "0.3.5"
+      "marked": "1.1.1"
   },
   "scripts": {
     "start": "node app.js"
